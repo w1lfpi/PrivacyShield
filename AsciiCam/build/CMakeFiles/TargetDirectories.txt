@@ -1,0 +1,3 @@
+/Users/daniilgorchakov/watch_dogs2/PrivacyShield/AsciiCam/build/CMakeFiles/AsciiCam.dir
+/Users/daniilgorchakov/watch_dogs2/PrivacyShield/AsciiCam/build/CMakeFiles/edit_cache.dir
+/Users/daniilgorchakov/watch_dogs2/PrivacyShield/AsciiCam/build/CMakeFiles/rebuild_cache.dir

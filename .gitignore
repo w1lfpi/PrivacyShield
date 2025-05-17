@@ -1,0 +1,12 @@
+#CMake
+/AsciiCam/build/
+/opencv/
+
+# macOS
+*.DS_Store
+
+.vscode/
+.idea/
+
+*.log
+*.tmp
