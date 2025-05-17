@@ -1,16 +1,26 @@
 # English
 # PrivacyShield
 ## Created by [w1lfpi](https://github.com/w1lfpi)
-> **Note:** This guide is intended for **macOS and Linux** users.  
-> Windows users will need to adapt the steps accordingly, for example, using Visual Studio and pre-built OpenCV binaries.
+
+This project is cross-platform and can be built on:
+	•	macOS
+	•	Linux
+	•	Windows (supported, but users are expected to configure the environment themselves — MSYS2, Visual Studio + CMake, etc.)
+
+⚠️ This documentation includes build instructions for macOS and Linux only.
 
 
 ## 📖 About the Project
-
 **PrivacyShield** is a C++ application using **OpenCV** for real-time face detection and pixelation from a live camera feed.
 
 ## Demo
 ![Demo](assets/demo.gif)
+
+## Requirements
+
+- [CMake](https://cmake.org/) ≥ 3.10  
+- C++ compiler (GCC, Clang, or equivalent) with C++17 support  
+- [OpenCV](https://opencv.org/releases/) ≥ 4.9.0  
 
 ## 📦 Clone the Repository
 
@@ -129,15 +139,25 @@ PrivacyShield/
 # PrivacyShield 
 ## Created by [w1lfpi](https://github.com/w1lfpi)
 
-> **Важно:** Эта инструкция предназначена для пользователей **macOS и Linux**.  
-> Пользователям Windows потребуется использовать Visual Studio и установить OpenCV другим способом.
+Проект кроссплатформенный и может быть собран на:
+	•	macOS
+	•	Linux
+	•	Windows (поддерживается, но пользователи должны самостоятельно настроить окружение — MSYS2, Visual Studio + CMake и т.д.)
+
+⚠️ В данной документации представлены только инструкции для macOS и Linux.
+
+## 📖 О проекте
+**PrivacyShield** — это C++-приложение с использованием **OpenCV** для распознавания и пикселизации лиц в реальном времени прямо с камеры.
 
 ## Демо
 ![Demo](assets/demo.gif)
 
-## 📖 О проекте
+## Требования
 
-**PrivacyShield** — это C++-приложение с использованием **OpenCV** для распознавания и пикселизации лиц в реальном времени прямо с камеры.
+- [CMake](https://cmake.org/) ≥ 3.10
+- Компилятор C++ (GCC, Clang или аналог) с поддержкой стандарта C++17
+- [OpenCV](https://opencv.org/releases/) ≥ 4.9.0
+
 
 ## 📦 Клонирование репозитория
 
