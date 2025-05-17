@@ -9,6 +9,9 @@
 
 **PrivacyShield** is a C++ application using **OpenCV** for real-time face detection and pixelation from a live camera feed.
 
+## Demo
+![Demo](assets/demo.gif)
+
 ## 📦 Clone the Repository
 
 Start by cloning this repository:
@@ -129,6 +132,8 @@ PrivacyShield/
 > **Важно:** Эта инструкция предназначена для пользователей **macOS и Linux**.  
 > Пользователям Windows потребуется использовать Visual Studio и установить OpenCV другим способом.
 
+## Демо
+![Demo](assets/demo.gif)
 
 ## 📖 О проекте
 
